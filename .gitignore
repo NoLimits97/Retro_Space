@@ -104,3 +104,18 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Retro Space generated files
+/DecodedAudio/
+/RegisterIcalls.cpp
+
+# Sony SDK / примеры Sony — не публикуем
+/Assets/SonyExamples/
+/Assets/SonyExamples.meta
+/Assets/Plugins/NativePluginExample/
+/Assets/Plugins/NativePluginExample.meta
+/Assets/Plugins/NativePluginExample.zip
+/Assets/Plugins/NativePluginExample.zip.meta
+
+# Локальные заметки для ассистента — не в публичном репозитории
+/CLAUDE.md
